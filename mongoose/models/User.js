@@ -7,6 +7,7 @@ const userSchema = new mongoose.Schema({
   // email: String,
   // age: Number
 
+  
   // 加上條件的話是這樣
   // 還可以客製化欄位規則  使用validate
   name: {
